@@ -1,7 +1,7 @@
 # _🎥 Movie Kiosk_ (Team Project)    
 ***
 
-[1. erd](#📌-_er-diagram_)
+[1. erd](#-er-diagram)
 
 ### Period : August 2021,  2weeks
 ### Personnel : 6 명.  
