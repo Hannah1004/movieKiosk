@@ -16,7 +16,7 @@
 > > > > ojdbc6.jar/HikariCP.jar/sql.jar
 ***
 ### 📌 _ER Diagram_
-![erd](https://user-images.githubusercontent.com/84116965/129391140-79714a8c-9b84-44e0-84d0-d9c5f5ad916e.png)
+![ERD](https://user-images.githubusercontent.com/35925463/132119103-4d98964f-75e6-48d2-9062-72e51d0908ae.png)
 ***   
 ### 📌 _Usecase Diagram_  
    
