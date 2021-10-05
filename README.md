@@ -9,7 +9,7 @@
 [# solution](#-video-solution)<br>
 [# screenShot](#-screenshot)<br>
 
-### Period : August 2021,  2weeks
+### Period : August 2021,  3weeks
 ### Personnel : 6 명.  
 ***
 
